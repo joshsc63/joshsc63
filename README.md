@@ -38,7 +38,7 @@ I craft **scalable systems** and **AI-powered apps** with a passion for clean co
 ---
 
 ## 📹 Beyond Code
-- **YouTube Creator**: Sharing [biblical wisdom and tech insights](https://youtube.com/@yourchannel) with a creative twist.
+- **YouTube Creator**: Sharing [Bit-Style Biblical Readings - Enoch Explorers](https://www.youtube.com/@EnochExplorers) with a creative twist.
 - **Hobbyist**: Building quirky apps like a flat Earth model and exploring AI-driven storytelling.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshsc&show_icons=true&theme=radical)
