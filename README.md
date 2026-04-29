@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Josh! Platform Software Engineer & AI App Architect
+# 👋 Hey, I'm Josh! AI Agentic Engineer + Software & Platform/Devops
 
 I craft **scalable systems** and **AI-powered apps** with a passion for clean code and creative solutions. From Kubernetes clusters to biblical fox adventures, I love turning ideas into reality. Fueled by ☕ and curiosity! 🚀
 
